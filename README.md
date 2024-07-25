@@ -8,8 +8,8 @@
 
 ## install via pipenv
 - `pipenv install`
-- `pip run python manage.py migrate`
-- `pip run python manage.py runserver`
+- `pipenv run python manage.py migrate`
+- `pipenv run python manage.py runserver`
 
 ## create superadmin
 - `.... manage.py createsuperuser`
